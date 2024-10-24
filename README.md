@@ -1,4 +1,4 @@
-# solana-next-dapp
+# solana-dapp-template
 
 This project is generated with the [create-solana-dapp](https://github.com/solana-developers/create-solana-dapp) generator.
 
