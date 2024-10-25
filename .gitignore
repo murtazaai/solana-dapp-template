@@ -37,6 +37,7 @@ Thumbs.db
 .next
 out
 .anchor
+anchor/.idea
 anchor/target/deploy
 anchor/target/debug
 anchor/target/release
