@@ -1,7 +1,7 @@
 #https://github.com/anza-xyz/agave/releases
 #https://solana.com/docs/intro/installation
 
-PROJECT_DIRECTORY=~/Workspace/solana/solana-dapp-template/
+PROJECT_DIRECTORY=~/Workspace/solana/solana-anchor-template/
 
 #Install the Solana CLI
 sh -c "$(curl -sSfL https://release.anza.xyz/stable/install)"
